@@ -2,6 +2,15 @@
 
 Willkommen bei der führenden Plattform für **KI Song Erstellen** und **KI Musik Erstellen**! Mit unserem fortschrittlichen **KI Song Generator** können Sie in wenigen Minuten professionelle Musikstücke erstellen – völlig kostenlos und ohne musikalische Vorkenntnisse. Entdecken Sie die Zukunft der Musikproduktion auf [ki song generator](https://kisongerstellen.com/).
 
+## Deutsche Songtexte mit KI-Agenten schreiben
+
+Mit unserem [Deutsche-Songtexte-Skill für Claude Code und OpenAI Codex](https://github.com/kisongerstellen/deutsche-songtexte-skill) kannst du deutsche Songtexte schreiben, Refrains entwickeln und eigene Entwürfe überarbeiten. Fertige Texte kannst du anschließend bei [KlangKI vertonen](https://kisongerstellen.com/).
+
+Öffentliche Seiten zum Skill:
+
+- [Deutsche Songtexte auf Awesome Skills](https://www.awesomeskills.dev/en/skill/kisongerstellen-deutsche-songtexte-skill)
+- [Deutsche Songtexte – Skill für KI-Agenten auf SkillMD](https://skillmd.ai/skills/deutsche-songtexte-skill-fur-ki-agenten/)
+
 ## 🎵 Was ist KI Song Erstellen?
 
 **KI Song Erstellen kostenlos** revolutioniert die Art und Weise, wie Musik produziert wird. Unser **KI Song Generator** nutzt modernste künstliche Intelligenz, um aus einfachen Textbeschreibungen, Songtexten oder musikalischen Ideen vollständige Songs in Studioqualität zu generieren. Egal ob Sie Content Creator, Musiker, Podcaster oder Geschäftsperson sind – mit **KI Musik Erstellen** wird professionelle Musikproduktion für jeden zugänglich.
