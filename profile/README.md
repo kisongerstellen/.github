@@ -1,196 +1,76 @@
-# KI Song Erstellen Kostenlos – Professioneller KI Musik Generator
+# KI Song Erstellen Kostenlos – Musik und Lyrics mit KI
 
-Willkommen bei der führenden Plattform für **KI Song Erstellen** und **KI Musik Erstellen**! Mit unserem fortschrittlichen **KI Song Generator** können Sie in wenigen Minuten professionelle Musikstücke erstellen – völlig kostenlos und ohne musikalische Vorkenntnisse. Entdecken Sie die Zukunft der Musikproduktion auf [ki song generator](https://kisongerstellen.com/).
+Eine Idee, ein eigener Songtext oder ein persönlicher Anlass: Mit KlangKI kannst du [einen KI Song kostenlos erstellen](https://kisongerstellen.com/), auch auf Deutsch. Beschreibe, worum es gehen soll, oder füge deine Lyrics ein. Wähle Stil, Stimmung und Stimme und mache daraus einen vollständigen Song mit Gesang und Instrumenten.
 
-## Deutsche Songtexte mit KI-Agenten schreiben
+Du brauchst weder musikalische Vorkenntnisse noch eigene Musiksoftware. Für Videos, Podcasts oder Spiele kannst du auch reine Instrumentalmusik erzeugen und deine Ergebnisse direkt im Browser anhören.
 
-Mit unserem [Deutsche-Songtexte-Skill für Claude Code und OpenAI Codex](https://github.com/kisongerstellen/deutsche-songtexte-skill) kannst du deutsche Songtexte schreiben, Refrains entwickeln und eigene Entwürfe überarbeiten. Fertige Texte kannst du anschließend bei [KlangKI vertonen](https://kisongerstellen.com/).
+**[KI Song Erstellen Kostenlos ausprobieren](https://kisongerstellen.com/) · [Preise und Credits](https://kisongerstellen.com/pricing)**
 
-Öffentliche Seiten zum Skill:
+## Von der Idee zum eigenen Song
 
-- [Deutsche Songtexte auf Awesome Skills](https://www.awesomeskills.dev/en/skill/kisongerstellen-deutsche-songtexte-skill)
-- [Deutsche Songtexte – Skill für KI-Agenten auf SkillMD](https://skillmd.ai/skills/deutsche-songtexte-skill-fur-ki-agenten/)
+1. **Mit deinem Material beginnen:** Beschreibe eine Szene, eine Geschichte oder einen gewünschten Klang. Wenn du schon einen Songtext hast, verwende den Modus „Lyrics zu Song“.
+2. **Den Sound bestimmen:** Gib zum Beispiel „ruhiger Deutschpop, warme Akustikgitarre, weiblicher Gesang“ vor. Du kannst auch Tempo, Stimmung und gewünschte Instrumente beschreiben.
+3. **Generieren und anhören:** Verfolge den Fortschritt und höre den fertigen Song im Browser an. Die Generierung dauert üblicherweise etwa 3–5 Minuten. Verfeinere bei Bedarf deine Lyrics oder Stilbeschreibung für einen weiteren Entwurf.
 
-## 🎵 Was ist KI Song Erstellen?
+## Werkzeuge für Songtexte, Musik und Audiospuren
 
-**KI Song Erstellen kostenlos** revolutioniert die Art und Weise, wie Musik produziert wird. Unser **KI Song Generator** nutzt modernste künstliche Intelligenz, um aus einfachen Textbeschreibungen, Songtexten oder musikalischen Ideen vollständige Songs in Studioqualität zu generieren. Egal ob Sie Content Creator, Musiker, Podcaster oder Geschäftsperson sind – mit **KI Musik Erstellen** wird professionelle Musikproduktion für jeden zugänglich.
+Je nachdem, was du vorhast, kannst du direkt mit einem dieser Werkzeuge beginnen:
 
-### Warum unseren KI Musik Generator nutzen?
+| Werkzeug | Was du damit machen kannst |
+| --- | --- |
+| [Songtext Generator](https://kisongerstellen.com/songtext-generator) | Aus einem Thema oder einer Erinnerung deutsche oder englische Lyrics entwickeln. Lies und bearbeite Strophen und Refrain und übernimm Titel, Stil und Text anschließend in den Musikgenerator. |
+| [KI Rap Generator](https://kisongerstellen.com/ki-rap-generator) | Aus einem Thema oder eigenen Rap-Lyrics einen vollständigen Rap-Song mit Stimme erstellen. Bestimme Stil, Stimmung, Tempo und Instrumente. |
+| [Geburtstagslied mit Namen erstellen](https://kisongerstellen.com/ki-geburtstagslied-erstellen) | Namen, gemeinsame Erlebnisse und Geburtstagswünsche zu einem persönlichen Lied machen. Passe den Text an, bevor du ihn vertonst. |
+| [Personalisiertes Lied](https://kisongerstellen.com/personalisiertes-lied) | Eine gemeinsame Geschichte als Song erzählen, etwa zum Jahrestag, zur Hochzeit oder als Dankeschön. Beschreibe die Person, den Anlass und den gewünschten Klang. |
+| [Stimme aus Lied entfernen](https://kisongerstellen.com/stimme-entfernen) | Eine MP3-, WAV- oder M4A-Datei hochladen und Gesang sowie Begleitung als zwei getrennte Spuren anhören – etwa zum Üben oder für Karaoke. |
+| [Stem Splitter](https://kisongerstellen.com/stem-splitter) | Einen Song in Gesang, Schlagzeug, Bass und weitere Instrumente aufteilen. Höre die vier Spuren einzeln an und nutze sie für deine weitere Arbeit. |
 
-- ✅ **100% Kostenlos** – KI Song Erstellen ohne versteckte Kosten
-- ✅ **Studioqualität** – Professionelle 44,1 kHz Audioausgabe
-- ✅ **Blitzschnell** – Songs in unter 60 Sekunden generieren
-- ✅ **Vollständige Rechte** – Sie besitzen 100% der Urheberrechte
-- ✅ **Lizenzfrei** – Nutzen Sie Ihre Musik kommerziell ohne Einschränkungen
-- ✅ **Deutsch-optimiert** – Speziell für deutsche Texte und Musikstile entwickelt
+## Unsere Open-Source-Projekte auf GitHub
 
-## 🚀 Leistungsstarke Funktionen des KI Song Generators
+Du möchtest Songtexte mit einem KI-Assistenten entwickeln oder die Musikgenerierung in deinen eigenen Arbeitsablauf einbauen? Hier findest du die beiden passenden Repositories.
 
-### 1. **KI-Text-Generator für einzigartige Songtexte**
+### Deutsche Songtexte Skill
 
-Unser **KI Song Generator** erstellt kreative und fesselnde Songtexte in Sekundenschnelle. Perfekt für **KI Song Erstellen**, wenn Sie Inspiration für Ihre nächste Komposition benötigen.
+Der [Deutsche-Songtexte-Skill](https://github.com/kisongerstellen/deutsche-songtexte-skill) hilft KI-Agenten wie Claude Code und Codex beim Schreiben und Überarbeiten deutscher Lyrics. Er enthält Hinweise zu Reimen, Betonung und singbarer Sprache sowie ein ausgearbeitetes Refrainbeispiel. Der Skill besteht aus Markdown-Dateien und benötigt keine zusätzlichen Pakete oder API-Schlüssel.
 
-**Vorteile:**
-- Texte in verschiedenen Genres und Stimmungen
-- Strukturierte Strophen, Refrains und Bridges
-- Personalisierung basierend auf Emotionen
-- Sofortige Texterstellung für schnelles **KI Musik Erstellen**
+Nutze ihn für einen ersten Entwurf, einen stärkeren Refrain oder die Überarbeitung einzelner Zeilen. Den fertigen Text kannst du anschließend bei KlangKI vertonen.
 
-### 2. **Beschreibung-zu-Song-Generator**
+### KI Song erstellen MCP
 
-Verwandeln Sie einfache Textbeschreibungen in vollständige Musikstücke. Beschreiben Sie Ihre musikalische Vision, und unser **KI Song Generator** erweckt sie zum Leben – ideal für **KI Song Erstellen kostenlos**.
+Der [KlangKI MCP-Server](https://github.com/kisongerstellen/ki-song-erstellen-mcp) verbindet lokale MCP-Clients mit der KlangKI API. Damit kann dein Assistent Songtexte schreiben, Songs aus Beschreibungen oder Lyrics erstellen, Instrumentals generieren und den Aufgabenstatus sowie abspielbare Ergebnisse abrufen.
 
-**Funktionen:**
-- Interpretation von Stimmung, Stil und Emotionen
-- Generierung kompletter musikalischer Kompositionen
-- Gesangs- und Instrumentalarrangements
-- Perfekt für kreatives **KI Musik Erstellen**
+Das Repository enthält die Installationsanleitung, eine Client-Konfiguration und Beispiele. Für die Nutzung brauchst du ein KlangKI-Konto mit API Key; die Musikgenerierung verwendet die Credits deines Kontos.
 
-### 3. **Songtext-zu-Song-Generator**
+## Fragen zum kostenlosen Einstieg
 
-Haben Sie bereits Songtexte geschrieben? Unser **KI Musik Generator** verwandelt Ihre Texte in professionelle Songs mit passenden Melodien, Rhythmen und Arrangements.
+**Kann ich einen KI Song kostenlos erstellen?**
 
-**Highlights:**
-- Melodien perfekt abgestimmt auf Ihre Texte
-- Präzise Gesangsarrangements
-- Unterstützung verschiedener Songstrukturen
-- Müheloses **KI Song Erstellen** aus bestehenden Texten
+Ja. Mit kostenlosen Start-Credits kannst du deine ersten Songs erstellen und im Browser anhören. Weitere Credits und die enthaltenen Leistungen findest du auf der [Preisseite](https://kisongerstellen.com/pricing).
 
-### 4. **Instrumental Musik Generator**
+**Kann ich eigene deutsche Songtexte verwenden?**
 
-Erstellen Sie beeindruckende Instrumentalmusik ohne Gesang – ideal für Hintergrundmusik, Videos, Podcasts oder eigenständige Kompositionen. Unser **KI Song Generator** macht **KI Musik Erstellen** ohne Vocals zum Kinderspiel.
-
-**Möglichkeiten:**
-- Instrumentalstücke in jedem Genre
-- Solo-Instrumente bis vollständige Orchestrationen
-- Anpassbares Tempo, Komplexität und Tonart
-- Kostenloser Download für alle Projekte
-
-## 📝 So funktioniert KI Song Erstellen Kostenlos
-
-### Schritt 1: Eingabemethode wählen
-
-Beginnen Sie Ihre Reise zum **KI Song Erstellen** mit einer der folgenden Optionen:
-
-- **Beschreibung zu Musik**: Beschreiben Sie Ihre musikalische Vision in Worten
-- **Songtext zu Musik**: Laden Sie eigene Songtexte für die Komposition hoch
-- **Instrumentalmodus**: Erstellen Sie Musik ohne Gesang
-
-### Schritt 2: Sound personalisieren
-
-Passen Sie Ihr **KI Musik Erstellen** individuell an:
-
-- **Songtexte**: Eigene Texte eingeben oder vom **KI Song Generator** erstellen lassen
-- **Musikstil**: Wählen Sie aus über 20 Genres (Pop, Rock, Jazz, Klassik, Schlager, etc.)
-- **Stimmung & Tempo**: Legen Sie den emotionalen Ton und die Geschwindigkeit fest
-- **Stimmtyp**: Männlich, weiblich oder instrumental
-- **Songtitel**: Geben Sie Ihrer Kreation einen einzigartigen Namen
-
-### Schritt 3: Song generieren
-
-Starten Sie das **KI Song Erstellen kostenlos**:
-
-- Klicken Sie auf „Generieren"
-- Hören Sie Ihren Track sofort an
-- Genießen Sie Studioqualität in unter 60 Sekunden
-
-### Schritt 4: Herunterladen & Teilen
-
-Nutzen Sie Ihre mit dem **KI Musik Generator** erstellte Musik:
-
-- Hochwertige, einsatzbereite Downloads
-- Teilen auf Social Media Plattformen
-- Volle Kontrolle über Datenschutzeinstellungen
-
-Besuchen Sie [ki song erstellen](https://kisongerstellen.com/) und starten Sie noch heute mit **KI Song Erstellen**!
-
-## 🎯 Anwendungsfälle für den KI Song Generator
-
-### Content Creator & Social-Media-Influencer
-YouTuber, TikToker und Instagram-Creator nutzen unseren **KI Song Generator** für einzigartige Hintergrundmusik, die Engagement steigert und Urheberrechtsprobleme vermeidet. **KI Musik Erstellen** war noch nie so einfach!
-
-### Video-Produktion & Filmherstellung
-Indie-Filmemacher und Video-Editoren verwenden **KI Song Erstellen kostenlos** für maßgeschneiderte Soundtracks und emotionale Untermalung ihrer visuellen Geschichten.
-
-### Spieleentwickler & App-Ersteller
-Entwickler nutzen unseren **KI Musik Generator** für adaptive Soundtracks, Soundeffekte und Hintergrundmusik, die auf Benutzerinteraktionen reagieren.
-
-### Business & Marketing
-Werbeagenturen erstellen mit **KI Song Erstellen** Marken-Jingles, kommerzielle Musik und Präsentationssoundtracks, die perfekt zur Markenidentität passen.
-
-### Musiker & Produzenten
-Professionelle und Amateur-Musiker nutzen **KI Musik Erstellen** als Inspiration, für Begleittracks, Demos und als Ausgangspunkt für eigene Kompositionen.
-
-### Podcaster & Audio-Creator
-Podcast-Hosts verwenden unseren **KI Song Generator** für maßgeschneiderte Intros, Outros und Hintergrundtracks in professioneller Qualität.
-
-## ⭐ Warum unser KI Musik Generator die beste Wahl ist
-
-### Optimierung für deutsche Sprache
-Speziell entwickelt für deutsche Texte und traditionelle Musikstile wie Schlager, Volksmusik und modernen deutschen Pop – perfekt für authentisches **KI Song Erstellen**.
-
-### Vollständiges Urheberrecht
-Sie besitzen 100% der Rechte an allen mit unserem **KI Song Generator** erstellten Musikstücken. Nutzen Sie sie kommerziell ohne Lizenzgebühren.
-
-### Professionelle Audioqualität
-Studioqualität mit 44,1 kHz Audioausgabe und fortschrittlichen KI-Modellen für kristallklare Vocals und Instrumente beim **KI Musik Erstellen**.
-
-### Vielfältige Musikgenres
-Erstellen Sie Songs in über 20 Genres – von Klassik und Jazz bis hin zu elektronischer Musik, Rock und traditioneller deutscher Volksmusik.
-
-### Sofortige Generierung
-Unser **KI Song Generator** erstellt komplette Songs mit Gesang und Instrumenten in weniger als 60 Sekunden.
-
-### Individuelle Anpassung
-Geben Sie eigene Texte ein oder lassen Sie sie generieren. Stimmen Sie Melodien, Tempo und Arrangements perfekt auf Ihre Vision ab.
-
-## 💡 Profi-Tipps für besseres KI Song Erstellen
-
-- **Seien Sie spezifisch**: Detaillierte Beschreibungen führen zu genaueren Ergebnissen beim **KI Musik Erstellen**
-- **Experimentieren Sie**: Probieren Sie verschiedene Genres aus, um Ihren einzigartigen Sound zu finden
-- **Testen Sie Varianten**: Erstellen Sie sowohl lyrische als auch instrumentale Versionen
-- **Nutzen Sie beschreibende Wörter**: Verwenden Sie emotionale und atmosphärische Begriffe für bessere Resultate mit dem **KI Song Generator**
-
-## ❓ Häufig gestellte Fragen
-
-**Ist KI Song Erstellen wirklich kostenlos?**
-Ja! Unser **KI Song Generator** ist völlig kostenlos nutzbar. Sie können unbegrenzt **KI Musik Erstellen** ohne versteckte Kosten.
-
-**Brauche ich musikalische Vorkenntnisse?**
-Nein! Unser **KI Musik Generator** ist so intuitiv gestaltet, dass jeder – vom Anfänger bis zum Profi – sofort mit **KI Song Erstellen** beginnen kann.
+Ja. Füge deinen Text ein, ergänze Titel und Stil und wähle die gewünschte Stimme. Wenn dir noch Zeilen fehlen, beginne mit dem Songtext Generator oder unserem Deutsche-Songtexte-Skill.
 
 **Kann ich die Musik kommerziell nutzen?**
-Absolut! Sie besitzen die vollständigen Rechte an allen mit unserem **KI Song Generator** erstellten Tracks und können sie ohne Einschränkungen kommerziell verwenden.
 
-**Welche Musikstile unterstützt der KI Song Generator?**
-Unser **KI Musik Generator** unterstützt über 20 Genres, darunter Pop, Rock, Jazz, Klassik, Schlager, Volksmusik, elektronische Musik und viele mehr.
+Du erhältst vollständige Nutzungsrechte an deiner mit KlangKI erstellten Musik und kannst sie für persönliche und kommerzielle Projekte ohne zusätzliche Lizenzgebühren verwenden.
 
-**Wie lange dauert KI Song Erstellen?**
-Mit unserem **KI Song Generator** erstellen Sie professionelle Songs in unter 60 Sekunden – von der Eingabe bis zum fertigen Track!
+**Wie funktionieren Downloads und das Teilen?**
 
-**Ist meine Musik privat?**
-Ja, alle mit **KI Musik Erstellen** generierten Songs sind standardmäßig privat. Sie entscheiden, ob und wann Sie Ihre Kreationen teilen möchten.
+MP3-Downloads und öffentliche Songlinks stehen nach dem Kauf eines Pakets zur Verfügung. Das gilt auch für die MP3-Downloads getrennter Audiospuren. Einen öffentlich geteilten Song können andere ohne Anmeldung anhören.
 
-## 🎼 Starten Sie jetzt mit KI Song Erstellen Kostenlos!
+**[Jetzt deinen ersten KI Song kostenlos erstellen](https://kisongerstellen.com/)**
 
-Bereit, Ihre musikalischen Ideen zum Leben zu erwecken? Besuchen Sie [ki musik erstellen](https://kisongerstellen.com/) und entdecken Sie die unbegrenzten Möglichkeiten unseres **KI Song Generators**. 
+## KlangKI auf anderen Plattformen
 
-**KI Musik Erstellen** war noch nie so einfach, schnell und professionell. Egal ob Sie Content für Social Media, Soundtracks für Videos, Hintergrundmusik für Podcasts oder eigene musikalische Kompositionen benötigen – unser **KI Song Generator** ist Ihr perfekter Partner für kreative Musikproduktion.
+Weitere Projektinformationen und Hörbeispiele findest du auf unseren öffentlichen Profilen:
 
-### Ihre Vorteile auf einen Blick:
+- [KlangKI auf SoundCloud](https://soundcloud.com/kisongerstellen) – veröffentlichte Songs zum Anhören.
+- [KlangKI auf Linktree](https://linktr.ee/kikevin) – unser Linkprofil mit Zugang zum Musikgenerator.
+- [KlangKI-Projektlink auf about.me](https://about.me/smithkevin) – die Vorstellung mit direktem Website-Link.
+- [KlangKI-Projektlink auf Gravatar](https://gravatar.com/f1158bb64f) – unser Projekteinstieg im öffentlichen Profil.
+- [KlangKI auf Carrd](https://kisongerstellen.carrd.co/) – eine kurze Vorstellung des Musikgenerators.
+- [KlangKI auf Bio Sites](https://bio.site/kisongerstellen) – unser kompaktes Projektprofil mit Website-Link.
+- [KlangKI auf Kit](https://klangki.kit.com/profile) – unser öffentliches KlangKI-Profil.
 
-✨ **Kostenlos** – Kein Abo, keine versteckten Kosten
-✨ **Schnell** – Songs in unter 60 Sekunden
-✨ **Professionell** – Studioqualität garantiert
-✨ **Flexibel** – Über 20 Genres und Stile
-✨ **Rechtssicher** – 100% Urheberrechte für Sie
-✨ **Einfach** – Keine Vorkenntnisse nötig
-
-Werden Sie Teil der KI-Musikrevolution und erleben Sie, wie einfach **KI Song Erstellen kostenlos** sein kann. Unser **KI Musik Generator** wartet darauf, Ihre kreativen Visionen in professionelle Musikstücke zu verwandeln!
-
----
-
-**Jetzt starten:** [ki song erstellen](https://kisongerstellen.com/)
-
-*Erstellen Sie heute Ihren ersten Song mit dem leistungsstärksten KI Song Generator für deutsche Musik!*
-
+Zum Nachlesen: [KI Song erstellen mit KlangKI – Anleitung für Einsteiger auf Issuu](https://issuu.com/klangki/docs/ki_song_erstellen_mit_klangki_anleitung_f_r_eins).
